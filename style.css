@@ -1,0 +1,484 @@
+.ukblue-headerbox{
+  width: 1135px;
+  height: 50px;
+  background-color: #0033A0;
+}
+.blue2-headerbox{
+  width: 1135px;
+  height: 35px;
+  background-color: #6696ff;
+  padding-top: 7px;
+  padding-left: 15px;
+}
+.blue3-headerbox{
+  width: 1135px;
+  height: 35px;
+  background-color: #e6eeff;
+  padding-top: 7px;
+  padding-left: 15px;
+}
+
+.bluesidebarboxleft{
+  width: 200px;
+  height: 328px;
+  background-color: #6696ff;
+  margin-top: 150px;
+  font-size: 25px;
+  padding: 20px;                                                                                                                                         
+}
+
+.sidebarleftlowertext{
+margin-top: 40px;
+}
+
+.sizinguppersecondtext{
+  font-size: 16px;
+}
+
+.sizinglowerfirsttext{
+  font-size: 25px;
+}
+
+.sizinglowersecondtext{
+  font-size: 16px
+}
+
+.myuk-pad{
+  margin-top: 5px;
+  margin-left: 7px;
+}
+
+.bluesidebarboxright{
+  width: 200px;
+  height: 328px;
+  background-color: #6696ff;
+  margin-top: 150px;
+  font-size: 16px;
+  padding: 20px;   
+  float: right;
+  margin-bottom: 200px;
+}
+
+.windowbox{
+  height: 225px;
+  Width: 225px;
+  margin-top: 60px;
+  background-color: #e6eeff;
+  float: right;
+  margin-right: 130px;
+  margin-bottom: 100px;
+}
+
+.holdbox{
+  height: 225px;
+  width: 225px;
+  margin-top: 60px;
+  background-color: #e6eeff;
+  float: left;
+  margin-left: 130px;
+  margin-bottom: 100px;
+}
+
+.ximage{
+  text-align: center;
+  padding: 10px;
+}
+
+.checkmark{
+  text-align:center;
+  padding: 10px;
+}
+
+.noholdstext{
+  margin-top: 10px;
+}
+
+.programtext{
+  margin-top: 5px;
+}
+
+.resourcestext{
+  margin-top: 5px;
+}
+
+.header-active{
+  height: 35px;
+  background-color: #e6eeff;
+  padding-top: 8px;
+  padding-bottom: 12px;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-decoration: none;
+  color: black;
+  margin-right: 4px;
+  margin-left: 4px;
+  margin-top: 0px;
+  font-weight: bold;
+}
+
+.header-active:hover{
+  height: 35px;
+  background-color: #e6eeff;
+  padding-top: 8px;
+  padding-bottom: 12px;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-decoration: none;
+  color: #a1a3a3;
+  margin-right: 4px;
+  margin-left: 4px;
+  margin-top: 0px;
+}
+
+.header-nonactive{
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-decoration: none;
+  margin-right: 4px;
+  margin-left: 4px;
+  color: black;
+}
+
+.header-nonactive:hover{
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-decoration: none;
+  margin-right: 4px;
+  margin-left: 4px;
+  color: #a1a3a3;
+}
+
+.header-active-bottom{
+  height: 35px;
+  background-color: #e6eeff;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-decoration: none;
+  color: black;
+  margin-right: 4px;
+  margin-left: 4px;
+  margin-top: 0px;
+  font-weight: bold;
+}
+
+.header-active-bottom:hover{
+  height: 35px;
+  background-color: #e6eeff;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-decoration: none;
+  color: #a1a3a3;
+  margin-right: 4px;
+  margin-left: 4px;
+  margin-top: 0px;
+  font-weight: bold;
+}
+
+.pg-header{
+  font-size: 30px;
+  font-weight: bold;
+  align: left;
+  margin-top: 50px;
+  margin-left: 130px;
+}
+
+.home-table{
+  width: 500px;
+  margin-left: 130px;
+  margin-top: 60px;
+  margin-bottom: 100px;
+}
+
+.sidebar{
+  text-decoration: none;
+  color: black;
+}
+
+.sidebar:hover{
+  text-decoration: none;
+  color: #e8e8e8;
+}
+
+.collegereq{
+  border-radius: 25px;
+    border: 2px solid black;
+    width: 300px;
+    height: 75px;
+  margin-top: 60px;
+}
+
+.majorreq{
+  border-radius: 25px;
+    border: 2px solid black; 
+    width: 300px;
+    height: 350px;
+  margin-top: 36px;
+  background-color: white;
+}
+
+.unireq{
+  border-radius: 25px;
+    border: 2px solid black; 
+    width: 300px;
+    height: 350px;
+  margin-top: 23px;
+  background-color: white;
+  margin-bottom: 100px;
+}
+
+.uk-blue {
+  background-color: #0036A0;
+  color: white;
+}
+
+.submitter{
+  margin-bottom: 30px;
+  float: right;
+  margin-right: 250px;
+}
+
+.collegereqtext{
+  font-size: 20px;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.textbox-width{
+  width: 200px;
+  padding: 10px;
+}
+
+.textbox-width2{
+  width: 600px;
+  padding: 10px;
+}
+
+.left-textboxes{
+  float:left;
+}
+
+.boxes{
+  margin-left: 130px;
+}
+
+.majorreqtext{
+  font-size: 20px;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.unireqtext{
+    font-size: 20px;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.majorreqsecondtext{
+  font-size: 20px;
+  text-align: left;
+  padding: 15px;
+}
+
+.unireqsecondtext{
+  font-size: 20px;
+  text-align: left;
+  margin-top: 10px;
+  padding: 15px;
+}
+
+.majorreqthirdtext{
+  font-size: 20px;
+  text-align: left;
+  margin-top: 35px;
+}
+
+.unireqthirdtext{
+  font-size: 20px;
+  margin-top: 35px;
+}
+
+.overallprogresstext{
+  font-size: 30px;
+  margin-top: 50px;
+}
+
+.bachelortext{
+  font-size: 20px;
+  margin-top: 50px;
+}
+
+.progress{
+  margin-top: 10px;
+}
+
+.uniprogressbar{
+}
+
+.uniprogresstext{
+  font-size: 20px;
+  margin-top: 50px;
+}
+
+.electivegroup{
+  padding-left:50px;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.arttext{
+  font-size: 20px;
+}
+
+.mathtext{
+  font-size: 20px;
+  margin-top: 100px;
+}
+
+.theatretext{
+  font-size: 20px;
+  margin-top: 100px;
+}
+
+.sciencetext{
+  font-size: 20px;
+}
+
+.musictext{
+  font-size: 20px;
+  margin-top: 100px;
+}
+
+.misctext{
+  font-size:20px;
+  margin-top: 100px;
+}
+
+.plannedcoursetable{
+  width: 500px;
+  margin-left: 320px;
+  margin-top: 60px;
+  margin-bottom: 100px;
+}
+
+.coursebox-dropdown{
+  float: right;
+  color: white;
+  font-size: 14px;
+  padding-right: 30px;
+  padding-top: 20px;
+}
+
+.coursebox-big{
+  width: 600px;
+  background-color: #0033A0;
+  height: 100px;
+  margin-left: 130px;
+  margin-top: 100px;
+  padding-left: 30px;
+}
+
+.coursebox-big-text{
+  text-transform: uppercase;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  float: left;
+  padding-top: 30px;
+}
+
+.coursebox-info{
+  color: white;
+  font-size: 14px;
+  float: left;
+  background-color: #0033A0;
+  height: 140px;
+  width: 350px;
+  margin-left: 130px;
+  margin-top: 25px;
+  padding: 10px;
+}
+
+.coursebox-prereq{
+   color: white;
+  font-size: 14px;
+  background-color: #0033A0;
+  height: 140px;
+  width: 230px;
+  margin-top: 25px;
+  padding: 10px;
+  margin-left: 500px;
+}
+
+.coursebox-big2{
+  width: 600px;
+  background-color: #0033A0;
+  height: 100px;
+  margin-left: 325px;
+  margin-top: 100px;
+  padding-left: 30px;
+}
+
+.coursebox-info2{
+  color: white;
+  font-size: 14px;
+  float: left;
+  background-color: #0033A0;
+  height: 140px;
+  width: 350px;
+  margin-left: 325px;
+  margin-top: 25px;
+  padding: 10px;
+  margin-bottom: 100px;
+}
+
+.coursebox-prereq2{
+   color: white;
+  font-size: 14px;
+  background-color: #0033A0;
+  height: 140px;
+  width: 230px;
+  margin-top: 25px;
+  padding: 10px;
+  margin-left: 695px;
+}
+
+.advanced-options{
+  width: 600px;
+  height: 200px;
+  color: black;
+  border: 2px;
+  border-color: black;
+  font-size: 14px;
+  margin-left: 130px;
+  margin-top: 100px;
+}
+
+.calendar-width{
+  width: 600px;
+  margin-left: 130px;
+  margin-top: 100px;
+}
+
+.class-times1 {
+  background-color: lime;
+}
+
+.class-times2 {
+  background-color: magenta;
+}
+
+.class-times3 {
+  background-color: cyan;
+}
+
+.class-times4 {
+  background-color: yellow;
+}
+
+.class-times5 {
+  background-color: orange;
+}
